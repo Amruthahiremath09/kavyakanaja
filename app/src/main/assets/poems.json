@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "title": "ಬಾರೋ ನಮ್ಮ ಬನ್ನಿ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEn": "Kuvempu",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಬಾರೋ ನಮ್ಮ ಬನ್ನಿ ಕಾಡಿಗೆ\nನಾಡಿನ ಗೆಳೆಯ ಬಾ ಹಾಡಿಗೆ\nಕಾಡಿನ ನಡುವೆ ಸ್ವಾತಂತ್ರ್ಯ ಹಾಡಿ\nಮನಸ್ಸು ಹಗುರ ಮಾಡಿ",
+    "meaning": "ಬನ್ನಿ ಕಾಡಿಗೆ - ಕಾಡಿಗೆ ಬನ್ನಿ. ನಾಡಿನ ಗೆಳೆಯ - ನಾಡಿನ ಸ್ನೇಹಿತ. ಸ್ವಾತಂತ್ರ್ಯ - ಮುಕ್ತತೆ, ಬಿಡುಗಡೆ.",
+    "audioFile": "poem_001",
+    "wordMeanings": [
+      {"word": "ಬನ್ನಿ", "meaning": "Come (plural)", "kannada": "ಬರಿ, ಬಾ"},
+      {"word": "ಸ್ವಾತಂತ್ರ್ಯ", "meaning": "Freedom, Liberty", "kannada": "ಮುಕ್ತತೆ"},
+      {"word": "ಹಗುರ", "meaning": "Light, Unburdened", "kannada": "ತಿಳಿ, ಲಘು"}
+    ],
+    "tags": ["nature", "freedom"]
+  },
+  {
+    "id": 2,
+    "title": "ನದೆ ಗನ್ನಡಿ",
+    "poet": "ಡಿ.ಆರ್. ಬೇಂದ್ರೆ",
+    "poetEn": "D.R. Bendre",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ನದೆಗನ್ನಡಿ ಆ ಸ್ವಚ್ಛ ನೀರಿನ ಹರವು\nಬಾನ ಬಿಂಬ ಬಿದ್ದು ನೀರ ತಳದಿ ತೊರವು\nಹಳ್ಳ ಕೊಳ್ಳ ಬೆಟ್ಟ ಗುಡ್ಡ ಕಾಡು ಮೇಡು\nಕನ್ನಡಾಂಬೆ ಮಡಿಲ ತುಂಬ ರತ್ನ ಹಾಡು",
+    "meaning": "ಸ್ವಚ್ಛ ನೀರಿನ ಹರವು - ತಿಳಿ ನೀರಿನ ಹರಿವು. ಬಾನ ಬಿಂಬ - ಆಕಾಶದ ಪ್ರತಿಬಿಂಬ. ಕನ್ನಡಾಂಬೆ - ಕನ್ನಡ ತಾಯಿ.",
+    "audioFile": "poem_002",
+    "wordMeanings": [
+      {"word": "ಹರವು", "meaning": "Flow, Spread", "kannada": "ಹರಿವು, ವಿಸ್ತಾರ"},
+      {"word": "ಬಿಂಬ", "meaning": "Reflection, Image", "kannada": "ಪ್ರತಿಬಿಂಬ"},
+      {"word": "ಕನ್ನಡಾಂಬೆ", "meaning": "Mother Kannada", "kannada": "ಕನ್ನಡ ತಾಯಿ"}
+    ],
+    "tags": ["nature", "patriotism"]
+  },
+  {
+    "id": 3,
+    "title": "ಭೂಮಿ ಗೀತೆ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEn": "Kuvempu",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಭೂಮಿ ತಾಯಿ ಎದೆಯ ಮೇಲೆ\nನಿಂತು ನೋಡು ವಿಶ್ವ ಬೆಳೆಯ\nಮಳೆ ಬೆಳಕು ಗಾಳಿ ನೀರು\nಜೀವ ಜಗದ ಚೇತನ ಸಿರಿ",
+    "meaning": "ಭೂಮಿ ತಾಯಿ - ಧರಿತ್ರಿ, ಭೂಮಾತೆ. ಚೇತನ - ಜೀವ ಶಕ್ತಿ. ಸಿರಿ - ಸಂಪತ್ತು, ಅಭಿವೃದ್ಧಿ.",
+    "audioFile": "poem_003",
+    "wordMeanings": [
+      {"word": "ಭೂಮಿ", "meaning": "Earth, Ground", "kannada": "ಧರಿತ್ರಿ, ಮಣ್ಣು"},
+      {"word": "ಚೇತನ", "meaning": "Life Force, Consciousness", "kannada": "ಜೀವ ಶಕ್ತಿ"},
+      {"word": "ಸಿರಿ", "meaning": "Wealth, Prosperity", "kannada": "ಸಂಪತ್ತು"}
+    ],
+    "tags": ["nature", "philosophy"]
+  },
+  {
+    "id": 4,
+    "title": "ಗಾಂಧಿ ಮಹಿಮೆ",
+    "poet": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್",
+    "poetEn": "Masti Venkatesha Iyengar",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಮಹಾತ್ಮ ಗಾಂಧಿ ಪ್ರೇಮ ಮೂರ್ತಿ\nಅಹಿಂಸೆ ಸತ್ಯ ಜಗದ ಕೀರ್ತಿ\nದೀನ ದಲಿತರ ಬಾಳ ಜ್ಯೋತಿ\nಭಾರತ ಮಾತೆ ಪ್ರೀತಿ ಪಾತ್ರಿ",
+    "meaning": "ಪ್ರೇಮ ಮೂರ್ತಿ - ಪ್ರೇಮದ ಸಾಕಾರ. ಅಹಿಂಸೆ - ಹಿಂಸೆ ಮಾಡದಿರುವುದು. ಜ್ಯೋತಿ - ದೀಪ, ಬೆಳಕು.",
+    "audioFile": "poem_004",
+    "wordMeanings": [
+      {"word": "ಅಹಿಂಸೆ", "meaning": "Non-violence", "kannada": "ಹಿಂಸೆ ಇಲ್ಲದಿರುವಿಕೆ"},
+      {"word": "ದೀನ", "meaning": "Poor, Humble", "kannada": "ಬಡವ, ದೀನ"},
+      {"word": "ಜ್ಯೋತಿ", "meaning": "Lamp, Light", "kannada": "ದೀಪ, ಬೆಳಕು"}
+    ],
+    "tags": ["patriotism", "social"]
+  },
+  {
+    "id": 5,
+    "title": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
+    "poet": "ವಿ.ಕೆ. ಗೋಕಾಕ್",
+    "poetEn": "V.K. Gokak",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಜೈ ಕರ್ನಾಟಕ ಮಾತೆ ಜೈ\nಕನ್ನಡ ನಾಡಿನ ಗಾಳಿ ಬೈ\nಹಸಿರು ಗದ್ದೆ ತೆನೆ ತೆನೆ\nಕನ್ನಡ ಭಾಷೆ ತಾನೆ ತಾನೆ",
+    "meaning": "ಕರ್ನಾಟಕ ಮಾತೆ - ಕರ್ನಾಟಕ ತಾಯಿ. ಹಸಿರು ಗದ್ದೆ - ಹಸಿ ಬೇಸಾಯ ಭೂಮಿ. ತೆನೆ - ಭತ್ತ ಅಥವಾ ಗೋದಿ ಕಿಟ್ಟ.",
+    "audioFile": "poem_005",
+    "wordMeanings": [
+      {"word": "ಜೈ", "meaning": "Victory, Hail", "kannada": "ವಿಜಯ, ಜಯ"},
+      {"word": "ಹಸಿರು", "meaning": "Green, Fresh", "kannada": "ಹಚ್ಚ ಹಸುರು"},
+      {"word": "ತೆನೆ", "meaning": "Grain spike, Ear of grain", "kannada": "ಭತ್ತದ ತೆನೆ"}
+    ],
+    "tags": ["patriotism", "culture"]
+  },
+  {
+    "id": 6,
+    "title": "ಮಳೆ ಬಂತು",
+    "poet": "ಕುವೆಂಪು",
+    "poetEn": "Kuvempu",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಮಳೆ ಬಂತು ಮಳೆ ಬಂತು\nತಣ್ಣಗೆ ತಂಪಾಗಿ ಮಳೆ ಬಂತು\nಭೂಮಿ ಎದೆ ಒದ್ದೆ ಆಗಿ\nಹಸಿರು ಚಿಗುರು ಮೇಲೆ ಬಂತು",
+    "meaning": "ಮಳೆ - ವರ್ಷ, ಮಳೆ. ತಂಪಾಗಿ - ತಂಪಾಗಿ, ಶೀತಲವಾಗಿ. ಒದ್ದೆ - ನೆನೆದ, ತೇವವಾದ. ಚಿಗುರು - ಚಿಗುರಿನ ಚಿಗುರು.",
+    "audioFile": "poem_006",
+    "wordMeanings": [
+      {"word": "ತಂಪಾಗಿ", "meaning": "Cool, Chilled", "kannada": "ಶೀತಲ"},
+      {"word": "ಒದ್ದೆ", "meaning": "Wet, Moist", "kannada": "ತೇವ, ನೆನೆದ"},
+      {"word": "ಚಿಗುರು", "meaning": "Sprout, Bud", "kannada": "ಮೊಳಕೆ"}
+    ],
+    "tags": ["nature", "seasons"]
+  },
+  {
+    "id": 7,
+    "title": "ಗಿರಿ ನದಿ",
+    "poet": "ಡಿ.ಆರ್. ಬೇಂದ್ರೆ",
+    "poetEn": "D.R. Bendre",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಎತ್ತರದ ಗಿರಿ ಶಿಖರದಿ\nನಿಂತು ನೋಡೆ ದೂರ ದೂರ\nನದಿ ಹರಿದು ಹೋಗಿ ಸೇರೆ\nಸಾಗರದ ಅಂಚ ಬೀರ",
+    "meaning": "ಗಿರಿ ಶಿಖರ - ಪರ್ವತದ ತುದಿ. ನದಿ ಹರಿದು - ನದಿ ಹರಿಯುತ್ತ. ಸಾಗರ - ಸಮುದ್ರ.",
+    "audioFile": "poem_007",
+    "wordMeanings": [
+      {"word": "ಗಿರಿ", "meaning": "Mountain, Hill", "kannada": "ಪರ್ವತ"},
+      {"word": "ಶಿಖರ", "meaning": "Peak, Summit", "kannada": "ತುದಿ, ಅಗ್ರ"},
+      {"word": "ಸಾಗರ", "meaning": "Ocean, Sea", "kannada": "ಸಮುದ್ರ, ಕಡಲು"}
+    ],
+    "tags": ["nature", "philosophy"]
+  },
+  {
+    "id": 8,
+    "title": "ಅಮ್ಮನ ಪ್ರೀತಿ",
+    "poet": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್",
+    "poetEn": "Masti Venkatesha Iyengar",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ತಾಯಿ ಪ್ರೇಮ ಅಗಾಧ ಸಮುದ್ರ\nಮಗು ದೋಣಿ ಆ ಕಡಲಿ ತೇಲ\nಬೊಗಸೆ ತುಂಬ ಪ್ರೀತಿ ಸುರಿಯೆ\nತಾಯಿ ಮಮತೆ ಯಾವ ಮೇಲ",
+    "meaning": "ಅಗಾಧ - ಅಳೆಯಲಾರದ, ಅಪರಿಮಿತ. ದೋಣಿ - ಸಣ್ಣ ದೋಣಿ. ಮಮತೆ - ಅಕ್ಕರೆ, ಪ್ರೇಮ.",
+    "audioFile": "poem_008",
+    "wordMeanings": [
+      {"word": "ಅಗಾಧ", "meaning": "Immense, Fathomless", "kannada": "ಅಳೆಯಲಾರದ"},
+      {"word": "ದೋಣಿ", "meaning": "Small Boat", "kannada": "ನಾವೆ"},
+      {"word": "ಮಮತೆ", "meaning": "Affection, Love", "kannada": "ಅಕ್ಕರೆ, ಪ್ರೀತಿ"}
+    ],
+    "tags": ["family", "love"]
+  },
+  {
+    "id": 9,
+    "title": "ಹೊಸ ಬೆಳಕು",
+    "poet": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ",
+    "poetEn": "U.R. Ananthamurthy",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಹೊಸ ಬೆಳಕು ತರಲು ಬಾ\nಕತ್ತಲೆ ಓಡಿಸಿ ಹೋಗು ದಾ\nಜ್ಞಾನ ಸೂರ್ಯ ಉದಯವಾಗಿ\nಮನದ ಅಂಧಕಾರ ಓಡಿ ಹೋಗ",
+    "meaning": "ಅಂಧಕಾರ - ಕತ್ತಲೆ, ಅಜ್ಞಾನ. ಜ್ಞಾನ ಸೂರ್ಯ - ಜ್ಞಾನದ ಸೂರ್ಯ. ಉದಯ - ಹುಟ್ಟು, ಆರಂಭ.",
+    "audioFile": "poem_009",
+    "wordMeanings": [
+      {"word": "ಅಂಧಕಾರ", "meaning": "Darkness, Ignorance", "kannada": "ಕತ್ತಲೆ"},
+      {"word": "ಜ್ಞಾನ", "meaning": "Knowledge, Wisdom", "kannada": "ತಿಳುವಳಿಕೆ"},
+      {"word": "ಉದಯ", "meaning": "Sunrise, Beginning", "kannada": "ಹುಟ್ಟು, ಆರಂಭ"}
+    ],
+    "tags": ["philosophy", "education"]
+  },
+  {
+    "id": 10,
+    "title": "ಕಾಡಿನ ಕರೆ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEn": "Kuvempu",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಕಾಡಿನ ಮಧ್ಯ ಒಂಟಿ ನಿಂತೆ\nಹಕ್ಕಿ ಹಾಡ ಕಿವಿ ತೆರೆದೆ\nಮರ ಮರ ಮಾತಾಡುವ ಗಾಳಿ\nಮನದ ನೋವ ತೊಳೆದು ಬಿಟ್ಟಿ",
+    "meaning": "ಒಂಟಿ - ಒಬ್ಬಂಟಿ, ಏಕಾಂಗಿ. ಹಕ್ಕಿ ಹಾಡ - ಪಕ್ಷಿಯ ಗಾನ. ತೊಳೆದು - ತೊಳೆದು ಹಾಕಿ, ಶುದ್ಧ ಮಾಡಿ.",
+    "audioFile": "poem_010",
+    "wordMeanings": [
+      {"word": "ಒಂಟಿ", "meaning": "Alone, Solitary", "kannada": "ಏಕಾಂಗಿ"},
+      {"word": "ಹಕ್ಕಿ", "meaning": "Bird", "kannada": "ಪಕ್ಷಿ"},
+      {"word": "ತೊಳೆದು", "meaning": "Washed away, Cleansed", "kannada": "ಶುದ್ಧ ಮಾಡಿ"}
+    ],
+    "tags": ["nature", "solitude"]
+  },
+  {
+    "id": 11,
+    "title": "ಸಂಗೀತ ಸಾಗರ",
+    "poet": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+    "poetEn": "Chandrashekara Kambara",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ರಾಗ ತಾಳ ಲಯ ಸಂಗೀತ\nಮನದ ತಂತಿ ಮೀಟಿ ಹಾಡು\nಸ್ವರ ಸ್ವರ ಸ್ವರ ಸ್ವರ ಮೇಳ\nಆತ್ಮ ದೀಪ ಬೆಳಗಿ ಓಡು",
+    "meaning": "ರಾಗ ತಾಳ ಲಯ - ಸಂಗೀತದ ಮೂರು ಮೂಲ ಅಂಶಗಳು. ತಂತಿ ಮೀಟಿ - ತಂತಿ ಮಿಟುಕಿ. ಆತ್ಮ ದೀಪ - ಆತ್ಮದ ಬೆಳಕು.",
+    "audioFile": "poem_011",
+    "wordMeanings": [
+      {"word": "ರಾಗ", "meaning": "Musical melody, tune", "kannada": "ಸ್ವರ ಕ್ರಮ"},
+      {"word": "ತಾಳ", "meaning": "Rhythm, Beat", "kannada": "ಲಯ"},
+      {"word": "ಆತ್ಮ", "meaning": "Soul, Spirit", "kannada": "ಜೀವ, ಚೇತನ"}
+    ],
+    "tags": ["culture", "music"]
+  },
+  {
+    "id": 12,
+    "title": "ವಸಂತ ಬಂದ",
+    "poet": "ಡಿ.ಆರ್. ಬೇಂದ್ರೆ",
+    "poetEn": "D.R. Bendre",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ವಸಂತ ಬಂದ ವಸಂತ ಬಂದ\nಹೂವು ಅರಳಿ ಕಂಪ ಚೆಂದ\nಮರ ಮರ ಮೈ ತುಂಬ ಹಸಿರು\nಜಗ ಮೈ ತುಂಬ ಹೊಸ ನಿಸ್ಸಾರ",
+    "meaning": "ವಸಂತ - ವಸಂತ ಋತು. ಹೂವು ಅರಳಿ - ಹೂ ಅರಳಿ. ಕಂಪ - ಸುಗಂಧ, ಪರಿಮಳ. ನಿಸ್ಸಾರ - ಸ್ಫೂರ್ತಿ, ತಾಜಾತನ.",
+    "audioFile": "poem_012",
+    "wordMeanings": [
+      {"word": "ವಸಂತ", "meaning": "Spring season", "kannada": "ವಸಂತ ಋತು"},
+      {"word": "ಕಂಪ", "meaning": "Fragrance, Aroma", "kannada": "ಸುಗಂಧ"},
+      {"word": "ನಿಸ್ಸಾರ", "meaning": "Freshness, Essence", "kannada": "ತಾಜಾತನ"}
+    ],
+    "tags": ["nature", "seasons"]
+  },
+  {
+    "id": 13,
+    "title": "ಮನ ತರಂಗ",
+    "poet": "ಕುವೆಂಪು",
+    "poetEn": "Kuvempu",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಮನ ತರಂಗ ಮಿಂಚಿ ಹೋಯಿತು\nಕನಸ ಕನಸ ಕಂಡು ಹೋಯಿತು\nಭಾವ ತರಂಗ ಉಕ್ಕಿ ಬಂದು\nಪ್ರೀತಿ ಸಾಗರ ತುಂಬಿ ತಂದು",
+    "meaning": "ತರಂಗ - ಅಲೆ, ಭಾವನೆ. ಮಿಂಚಿ - ಮಿಂಚಿ, ಹೊಳೆದು. ಭಾವ - ಭಾವನೆ, ಅನುಭವ. ಉಕ್ಕಿ - ತುಂಬಿ ಹರಿದು.",
+    "audioFile": "poem_013",
+    "wordMeanings": [
+      {"word": "ತರಂಗ", "meaning": "Wave, Ripple", "kannada": "ಅಲೆ"},
+      {"word": "ಮಿಂಚಿ", "meaning": "Flashed, Sparkled", "kannada": "ಹೊಳೆದು"},
+      {"word": "ಭಾವ", "meaning": "Emotion, Feeling", "kannada": "ಭಾವನೆ"}
+    ],
+    "tags": ["philosophy", "love"]
+  },
+  {
+    "id": 14,
+    "title": "ಊರ ಕೆರೆ",
+    "poet": "ವಿ.ಕೆ. ಗೋಕಾಕ್",
+    "poetEn": "V.K. Gokak",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಊರ ಕೆರೆ ತುಂಬಿ ತುಳುಕಿ\nನೀರ ನೀಲ ಅಲೆ ಮಿಳುಕಿ\nಹಕ್ಕಿ ಹಾರಿ ನೀರ ಮೇಲೆ\nಹಳ್ಳಿ ಬದುಕ ಚೆಲ್ಲ ಸೊಲ್ಲ",
+    "meaning": "ಕೆರೆ - ಕೆರೆ, ಸರೋವರ. ತುಳುಕಿ - ಉಕ್ಕಿ ತುಂಬಿ. ಮಿಳುಕಿ - ಮಿನುಗಿ ಹೊಳೆದು. ಸೊಲ್ಲ - ಕಥೆ, ಮಾತು.",
+    "audioFile": "poem_014",
+    "wordMeanings": [
+      {"word": "ಕೆರೆ", "meaning": "Lake, Pond", "kannada": "ಸರೋವರ"},
+      {"word": "ತುಳುಕಿ", "meaning": "Overflowing", "kannada": "ಉಕ್ಕಿ ತುಂಬಿ"},
+      {"word": "ಸೊಲ್ಲ", "meaning": "Story, Sound", "kannada": "ಕಥೆ, ಮಾತು"}
+    ],
+    "tags": ["nature", "village"]
+  },
+  {
+    "id": 15,
+    "title": "ಕನ್ನಡ ಕಾವ್ಯ",
+    "poet": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+    "poetEn": "Chandrashekara Kambara",
+    "era": "20ನೇ ಶತಮಾನ",
+    "eraEn": "20th Century",
+    "text": "ಕಾವ್ಯ ಕನ್ನಡ ಕಾವ್ಯ\nಪಂಪ ರನ್ನರ ಭಾವ್ಯ\nಕುವೆಂಪು ಬೇಂದ್ರೆ ಗಾನ\nಕನ್ನಡ ಜಾನ ಮಾನ",
+    "meaning": "ಕಾವ್ಯ - ಕವನ, ಸಾಹಿತ್ಯ. ಭಾವ್ಯ - ಭಾವನೆಗಳ ಸಾಕಾರ. ಗಾನ - ಹಾಡು, ಗೀತೆ. ಜಾನ ಮಾನ - ಗೌರವ, ಕೀರ್ತಿ.",
+    "audioFile": "poem_015",
+    "wordMeanings": [
+      {"word": "ಕಾವ್ಯ", "meaning": "Poetry, Literature", "kannada": "ಕವನ, ಸಾಹಿತ್ಯ"},
+      {"word": "ಭಾವ್ಯ", "meaning": "Emotional, Soulful", "kannada": "ಭಾವಪೂರ್ಣ"},
+      {"word": "ಗಾನ", "meaning": "Song, Music", "kannada": "ಹಾಡು"}
+    ],
+    "tags": ["culture", "literature"]
+  }
+]
